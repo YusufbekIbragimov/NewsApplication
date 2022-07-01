@@ -154,6 +154,9 @@ dependencies {
     // And others
     implementation "com.google.accompanist:accompanist-navigation-animation:$accompanist_version"
 
+    // Accompanist pager
+    implementation "com.google.accompanist:accompanist-pager:0.24.10-beta"
+
 }
 
 // Allow references to generated code
